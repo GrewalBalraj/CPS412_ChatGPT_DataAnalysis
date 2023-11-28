@@ -1,1 +1,2 @@
-This project involves the creation of statistical figures using data collected from students at Toronto Metropolitan University regarding their opinions on ChatGPT. This project utilizes the Pandas library from Python to create graphical analyses of information stored and grabbed from excel spreadsheets.
+This project involves the creation of statistical figures using data collected from students at Toronto Metropolitan University regarding their opinions on ChatGPT. 
+This project utilizes the Pandas library from Python to create graphical analyses of information stored and grabbed from excel spreadsheets.
